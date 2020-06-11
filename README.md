@@ -1,7 +1,20 @@
 ad_finder_cc
 ==============================
 
-A project to find ads in archive.org closed captioning
+An in-progress project to find ads in archive.org closed captioning. Currently I am piloting a process to make it easy to hand-code and build per-network models.
+
+# Problem Statement
+TV News closed captioning captions the ads as well as the news itself. This closed caption text is a rich source of information about what news stories are being covered and what language is used to discuss them, but when it’s contaminated with ads, it’s harder to extract information about the news itself.
+
+On the other hand, knowing who advertises on which show is also useful information for media watchdog groups, so being able to identify ads is an important processing step in doing natural language processing on TV News closed captions
+
+# Data
+The data was be downloaded from archive.org, which maintains a huge repository of TV news closed captions. 
+
+# Relevant Documents
+* [Milestone Report](https://github.com/LinneaHarts/ad_finder_cc/blob/master/reports/Identifying%20TV%20News%20Ads%20Milestone%20Report%201.pdf)
+* [Exploratory Notebooks](https://github.com/LinneaHarts/ad_finder_cc/tree/master/notebooks)
+
 
 Project Organization
 ------------
