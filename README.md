@@ -13,6 +13,8 @@ The data was be downloaded from archive.org, which maintains a huge repository o
 
 # Relevant Documents
 * [Milestone Report](https://github.com/LinneaHarts/ad_finder_cc/blob/master/reports/Identifying%20TV%20News%20Ads%20Milestone%20Report%201.pdf)
+* [Final Report](https://github.com/LinneaHarts/ad_finder_cc/blob/master/reports/Identifying%20TV%20News%20Ads%20Final%20Report%201.pdf)
+* [Final Presentation](https://github.com/LinneaHarts/ad_finder_cc/blob/master/reports/Predicting%20Ads%20in%20TV%20News%20Final%20Report.pdf)
 * [Exploratory Notebooks](https://github.com/LinneaHarts/ad_finder_cc/tree/master/notebooks)
 
 
